@@ -1,0 +1,33 @@
+#main-box {
+    width: 560px;
+    height: 630px;
+    border: 6px solid #333;
+    background-color: aqua  }
+  #box {
+    border: 2px solid rgb(238, 28, 28);
+    width: 500px;
+    height: 90px;
+    margin: 30px;
+    font-style: italic; font-size:150%;  
+    text-align: center; 
+    background-color:burlywood; }
+  #box1 {
+    border: 2px solid rgb(159, 12, 228);
+    width: 500px;
+    height: 100px;
+    margin: 30px;
+    text-align: justify; }
+ #box2 {
+    border: 2px dotted red;
+    width: 500px;
+    height: 150px;
+    margin: 30px;
+    text-align: justify;  }
+  #box3 {
+    border: 2px dashed orange;
+    width: 500px;
+    height: 150px;
+    margin: 30px;
+    text-align: justify; }
+  
+  
