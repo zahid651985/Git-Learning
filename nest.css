@@ -1,0 +1,42 @@
+.box{
+border:25px solid wheat;
+height:10cm;
+width: 10cm;
+padding:10px;
+margin: 10cm;
+background-color: blue;
+
+}
+.box1{
+border:10px solid black;
+height:9cm;
+width: 9cm;
+padding:5px;
+margin:4px; 
+background-color: yellowgreen
+}
+.box2{
+border:15px solid green;
+height:8cm;
+width: 8cm;
+padding:1px;
+margin:4px; 
+background-color: orange
+}
+.box3{
+border:10px solid gold;
+height:7cm;
+width: 7cm;
+padding:2px;
+margin:4px; 
+background-color: lightcoral
+}
+.box4{
+border: 10px solid black; 
+height:4cm;
+width: 4cm;
+padding:30px;
+margin:16px; 
+background-color: maroon;
+}
+
