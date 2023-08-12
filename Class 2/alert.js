@@ -1,0 +1,1 @@
+alert("Assignment class-2 has completed successfully, Thank You")
