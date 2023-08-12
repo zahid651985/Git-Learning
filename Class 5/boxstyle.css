@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+body{
+    background-color: #1b1b1b;
+    color: #fff;
+}
+.container{
+    background-color: dodgerblue;
+    border: 1px solid red;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.container div{
+    background-color: #f1f1f1;
+    color: #1b1b1b;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+@media{max-width: 500px}
+
+.container{
+    flex-direction: column;
+    background-color: aquamarine;
+}
