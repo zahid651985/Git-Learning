@@ -1,0 +1,44 @@
+1)comment-your-javascript-code
+
+// var firstNum = 2;
+// var secondNum = 5;//
+
+/* var popularNumber = firstNum + secondNum;
+alert(popularNumber)*/
+
+
+2)declare-javascript-variables
+var myName;
+
+
+
+3)initializing-variables-with-the-assignment-operator
+var a = 9;
+
+
+4)assigning-the-value-of-one-variable-to-another
+
+// Setup
+var a;
+a = 7;
+var b;
+
+// Only change code below this line
+
+b = a;
+
+
+5)storing-values-with-the-assignment-operator
+
+// Setup
+var a; 
+a = 7;
+var b;
+b = 3; 
+
+// Only change code below this line
+
+6)declare-string-variables
+var myname;
+var myFirstName = "Zahid";
+var myLastName = "Hussain";
