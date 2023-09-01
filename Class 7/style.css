@@ -1,0 +1,10 @@
+ul{
+    background-color: gray;
+    border: 2px solid transparent;
+    display: flex;
+    justify-content: space-around;
+}
+ul a{
+color: #fff;
+}
+
