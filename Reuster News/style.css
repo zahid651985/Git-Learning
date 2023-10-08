@@ -1,0 +1,29 @@
+.header{
+    border: 1px solid burlywood;
+}
+table i{
+    color: red;
+}
+
+.tbody {
+    border: 1px solid burlywood
+}
+
+.tbody tr{
+    border: transparent;
+
+}
+.side-bar{
+    margin-left: 880px;
+    position: absolute;
+    border: 1px solid burlywood;
+    width: 450px;
+    height: 628px;
+}
+.style{
+    
+    height:50px;
+    color: white;
+    text-align: center;
+    background-color: rgb(45, 160, 180);
+}
